@@ -1,0 +1,43 @@
+* {
+    font-family: "Quicksand", sans-serif;
+}
+
+.navbar {
+    background-color: rgb(176, 255, 255);
+}
+
+header h1 {
+    font-size: px;
+}
+
+.text-colored {
+    color:rgb(33, 184, 184) ;
+}
+
+#slide {
+    height: 800px;
+    width: 2000px;
+}
+
+#servicos-img {
+    height: 312px;
+}
+
+.social-links li {
+    list-style: none;
+    display: inline;
+}
+
+.social-links a {
+    text-decoration: none;
+}
+
+#inscricao button {
+    background-color: rgb(33, 184, 184);
+}
+
+@media (max-width:767px) {
+    .carousel-item img {
+        height: 280px;
+    }
+}
